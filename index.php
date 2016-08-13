@@ -28,6 +28,7 @@
             <li><a href="services.php" title="Services">SERVICES</a></li>
             <li><a href="cranes.php" title="Cranes">CRANES</a></li>
             <li><a href="tanks.php" title="Tanks">TANKS</a></li>
+            <li><a href="super_large_lathe.php" title="Super_Large_Lathe">LATHE</a></li>
             <li><a href="contact.php" title="Contact">CONTACT</a></li>
         </ul>
         <!-- end main menu-->
