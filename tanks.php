@@ -69,6 +69,7 @@
     </tr>
     <tr>
         <td style="column-width:125px;text-align:center;"><img width="125px" src="images/Upright1.jpg" /></td>
+
         <td style="column-width:125px;text-align:center;vertical-align:middle;"><br/><img width="125px" src="images/Upright2.jpg" /></td>
     <td style="column-width:125px;text-align:center;vertical-align:middle;"><br/><img width="125px" src="images/Upright3.jpg" /></td>
     </tr>
@@ -81,7 +82,7 @@
   <tr>
         <td style="column-width:125px;text-align:center;"><img width="125px" src="images/Sattlemount2.jpg" /></td>
         <td style="column-width:125px;text-align:center;vertical-align:middle;"><br/><br/><img width="125px" src="images/Sattlemount1.jpg" /></td>
-    <td style="column-width:125px;text-align:center;vertical-align:middle;"><br/><img width="125px" src="images/Sattlemount3.jpg" />
+        <td style="column-width:125px;text-align:center;vertical-align:middle;"><br/><br/><img width="125px" src="images/Sattlemount3.jpg" /></td>
     </tr>
 </table>
 </br>
